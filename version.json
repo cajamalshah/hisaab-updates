@@ -1,7 +1,7 @@
 {
-  "vc": 34,
-  "name": "3.5.9",
-  "note": "New: the app can now update itself \u2014 you'll see a notice when a new version is ready.\nBanner ads: at most once per session, with a close button. Full-screen ads unchanged.",
+  "vc": 35,
+  "name": "3.6.0",
+  "note": "New in 3.6.0:\n\u2022 Ads now appear when you SAVE an entry (first of the day, then every 5th) \u2014 not when opening the app\n\u2022 'Check for updates' moved to the main Settings screen\n\u2022 'Share with friends' now shares a working download link\nThis update installs over your current app \u2014 all data is kept.",
   "apk": "https://cajamalshah.github.io/hisaab-updates/Hisaab.apk",
   "apkOwner": "https://cajamalshah.github.io/hisaab-Owner.apk"
 }
