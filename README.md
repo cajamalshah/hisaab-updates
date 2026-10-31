@@ -2,15 +2,12 @@
 
 **Your money, perfectly clear.** Personal & group expense manager for Android — English & اردو.
 
-Latest version: **v3.7.0** (versionCode 36)
+Latest version: **v3.7.1** (versionCode 37)
 
 ## 📲 Download
 
-| App | Link |
-|---|---|
-| Hisaab (public) | [Hisaab.apk](https://cajamalshah.github.io/hisaab-updates/Hisaab.apk) |
-| Hisaab Owner (owner edition) | [Hisaab-Owner.apk](https://cajamalshah.github.io/hisaab-updates/Hisaab-Owner.apk) |
-| Download page | [cajamalshah.github.io/hisaab-updates](https://cajamalshah.github.io/hisaab-updates/) |
+- **Hisaab** (public): [Hisaab.apk](https://cajamalshah.github.io/hisaab-updates/Hisaab.apk)
+- Download page: [cajamalshah.github.io/hisaab-updates](https://cajamalshah.github.io/hisaab-updates/)
 
 Installs directly over any older version — all data is kept.
 
