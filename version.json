@@ -2,6 +2,5 @@
   "vc": 37,
   "name": "3.7.1",
   "note": "Fix: Google sign-in now shows the real error when it fails (instead of 'cancelled'), so problems can be fixed in one step.\nInstalls over your current app \u2014 all data is kept.",
-  "apk": "https://cajamalshah.github.io/hisaab-updates/Hisaab.apk",
-  "apkOwner": "https://cajamalshah.github.io/hisaab-Owner.apk"
+  "apk": "https://cajamalshah.github.io/hisaab-updates/Hisaab.apk"
 }
