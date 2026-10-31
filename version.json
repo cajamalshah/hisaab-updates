@@ -1,7 +1,7 @@
 {
-  "vc": 35,
-  "name": "3.6.0",
-  "note": "New in 3.6.0:\n\u2022 Ads now appear when you SAVE an entry (first of the day, then every 5th) \u2014 not when opening the app\n\u2022 'Check for updates' moved to the main Settings screen\n\u2022 'Share with friends' now shares a working download link\nThis update installs over your current app \u2014 all data is kept.",
+  "vc": 36,
+  "name": "3.7.0",
+  "note": "New in 3.7.0 \u2014 Google Drive backup:\n\u2022 Sign in with Google (optional) on the login screen\n\u2022 Settings \u2192 Backup & restore \u2192 back up to your own Google Drive\n\u2022 New phone? Sign in with the same email and restore everything\nThis update installs over your current app \u2014 all data is kept.",
   "apk": "https://cajamalshah.github.io/hisaab-updates/Hisaab.apk",
   "apkOwner": "https://cajamalshah.github.io/hisaab-Owner.apk"
 }
