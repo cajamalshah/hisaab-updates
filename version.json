@@ -1,6 +1,6 @@
 {
-  "vc": 38,
-  "name": "4.0.0",
-  "note": "The big 4.0 update:\n• Personalization — accent colors, display size, font style and auto dark/light theme (Settings → Personalization)\n• Built-in calculator on every amount field — type sums like 250+300×2, or tap 🧮\n• Fresher, smoother look with gentle animations\n• Smarter Google sign-in with an automatic modern fallback\n\nInstalls over your current app — all data is kept.",
+  "vc": 39,
+  "name": "4.0.1",
+  "note": "Quick fix for the 4.0 update:\n• Calculator — the + button was missing, it's back (full keypad now)\n• Personalization — now has Save and Reset-to-default buttons, plus a ✕ to discard changes\n\nInstalls over your current app — all data is kept.",
   "apk": "https://cajamalshah.github.io/hisaab-updates/Hisaab.apk"
 }
