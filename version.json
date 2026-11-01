@@ -1,6 +1,6 @@
 {
-  "vc": 37,
-  "name": "3.7.1",
-  "note": "Fix: Google sign-in now shows the real error when it fails (instead of 'cancelled'), so problems can be fixed in one step.\nInstalls over your current app \u2014 all data is kept.",
+  "vc": 38,
+  "name": "4.0.0",
+  "note": "The big 4.0 update:\n• Personalization — accent colors, display size, font style and auto dark/light theme (Settings → Personalization)\n• Built-in calculator on every amount field — type sums like 250+300×2, or tap 🧮\n• Fresher, smoother look with gentle animations\n• Smarter Google sign-in with an automatic modern fallback\n\nInstalls over your current app — all data is kept.",
   "apk": "https://cajamalshah.github.io/hisaab-updates/Hisaab.apk"
 }
